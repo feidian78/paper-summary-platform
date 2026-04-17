@@ -1,0 +1,7 @@
+streamlit
+dashscope
+pypdf
+requests
+beautifulsoup4
+trafilatura
+python-dotenv
